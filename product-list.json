@@ -1,0 +1,44 @@
+{
+  "products":[
+  {
+                "productId": 2,
+                "productName": "Garden Cart",
+                "productCode": "GDN-0023",
+                "releaseDate": "March 11, 2022",
+                "description": "15 gallon capacity",
+                "price": 32.99,
+                "starRating": 2.3,
+                "imageUrl": "assets/images/lambo.png"
+            },
+            {
+                "productId": 5,
+                "productName": "Hammer",
+                "productCode": "TBX-0048",
+                "releaseDate": "May 11, 2022",
+                "description": "Curved claw steel hammer",
+                "price": 22.12,
+                "starRating": 4,
+                "imageUrl": "assets/images/lambo.png"
+            },
+            {
+                "productId": 12,
+                "productName": "Garden City",
+                "productCode": "GDN-0023",
+                "releaseDate": "March 11, 2022",
+                "description": "15 gallon capacity",
+                "price": 32.99,
+                "starRating": 2.3,
+                "imageUrl": "assets/images/lambo.png"
+            },
+            {
+                "productId": 9,
+                "productName": "Coffee Maker",
+                "productCode": "TBX-0048",
+                "releaseDate": "May 11, 2022",
+                "description": "Curved claw steel hammer",
+                "price": 22.12,
+                "starRating": 4,
+                "imageUrl": "assets/images/lambo.png"
+            }
+  ]
+}
